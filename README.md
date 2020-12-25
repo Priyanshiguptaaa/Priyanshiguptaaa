@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<h1> Hey There! I'm Priyanshi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
+<h1> { Hey There! I'm Priyanshi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> }</h2>
 
 
 
