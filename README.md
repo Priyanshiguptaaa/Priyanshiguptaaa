@@ -27,7 +27,7 @@
 <br>
 💡 - Also I'm keen to transform my ideas into websites and apps. 
 <br>
-✨ - My research interests lie in the field of Natural Language Processing; primarily Visual Commonsense and Reasoning.
+✨ - My research interests lie in the field of Natural Language Processing; currently working on Visual Commonsense and Reasoning.
 <br>
 💻 - I'm working on my Competitive Programming Skills and learning Android App Development.
 <br>
