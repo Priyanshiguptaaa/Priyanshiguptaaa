@@ -2,14 +2,14 @@
 <br>
 <p align="center">
 <br/>
-<a href="https://twitter.com/femalemillenial">
+<a href="https://twitter.com/millennialxtech">
   <img alt="priyanshiguptaaa | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/priyanshi-gupta-9237b9188/">
   <img alt="priyanshiguptaaa's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 
-<a href="https://www.instagram.com/millennialwithavision/">
+<a href="https://www.instagram.com/millennialintech/">
   <img alt="priyanshiguptaaa's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 </p>
@@ -39,7 +39,7 @@
 📫 If you wish to collaborate on a project with me, Reach me  ⬇
 <br>
 <br>
-[![Instagram](https://img.shields.io/badge/-Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white&&link=https://www.instagram.com/millennialwithavision/)](https://www.instagram.com/millennialwithavision/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white&&link=https://www.instagram.com/millennialwithavision/)](https://www.instagram.com/millennialintech/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/priyanshi-gupta-9237b9188/)](https://www.linkedin.com/in/priyanshi-gupta-9237b9188/) [![Gmail](https://img.shields.io/badge/Gmail-D14837?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guppriyanshi@gmail.com)](mailto:guppriyanshi@gmail.com)
 <br>
 
