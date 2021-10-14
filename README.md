@@ -21,15 +21,15 @@
 <img  align='right' src="https://github.com/Priyanshiguptaaa/Priyanshiguptaaa/blob/main/computer.gif" width="530" height="420">
 <br>
 
-🎓 - I am a 3rd year Computer Science Undergraduate Student and my drive to develop is ignited by my passion to solve problems with technology.
+🎓 - I am a Final Year Computer Science Undergraduate Student and my drive to develop is ignited by my passion to solve problems with technology.
 <br>
 🌻 - I am interested in Artificial Intelligence and how it is shaping the global economy. 
 <br>
-💡 - Also I'm keen to transform my ideas into websites and apps. 
+💡 - Also I have interned with <b>Grroom IIT Bombay</b> for 3 months and contributed to their AI-fashion stylist model, <b>Nokia</b> for 6 months as a Data Science intern where I built a tool for Multilinguil Document Translation. Currently, I am working as a research Intern at <b>AI institute, Uofsc</b> on multimodal dialog systens and as a Deep Learning Engineer Intern at <b>Nvidia</b> on the Conversational AI team. 
 <br>
-✨ - My research interests lie in the field of Natural Language Processing; currently working on Visual Commonsense and Reasoning.
+✨ - My research interests lie in the field of Natural Language Processing ( Commonsense Reasoning, Dialog Systems and Machine Translation ).
 <br>
-💻 - I'm working on my Competitive Programming Skills and learning Android App Development.
+💻 - I'm working on my Competitive Programming and Deep Learning Skills.
 <br>
 ⚡ - Visit my <a href="https://priyanshigupta.netlify.app/">website</a> to know more about me. 
 <br>
@@ -46,9 +46,9 @@
 <!--<h2 align="center">My Research Interests</h3>
 
 <!--<p align="center">
- ✨ Neural Language Processing ✨  
-- ✨ Federated Learning ✨ 
-- ✨ Machine Learning in Finance ✨</p>-->
+ ✨ Machine Translation ✨  
+- ✨ Speech Recognition ✨ 
+- ✨ Dialog Systems ✨</p>-->
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiguptaaa&layout=compact&langs_count=10)](https://github.com/priyanshiguptaa/github-readme-stats) ![Priyanshi's Github Stats](https://github-readme-stats.vercel.app/api?username=priyanshiguptaaa&theme=buefy&show_icons=true) 
