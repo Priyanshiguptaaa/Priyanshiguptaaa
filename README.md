@@ -53,7 +53,8 @@
 <p align="center">
  ✨ Machine Translation ✨  
 - ✨ Computational Social Science ✨ 
-- ✨ Smart Cities ✨</p>
+- ✨ Smart Cities ✨
+- ✨ NLP Applications ✨ </p>
  
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshiguptaaa&layout=compact&langs_count=10)](https://github.com/priyanshiguptaa/github-readme-stats) ![Priyanshi's Github Stats](https://github-readme-stats.vercel.app/api?username=priyanshiguptaaa&theme=buefy&show_icons=true) 
